@@ -1,4 +1,4 @@
-# front-end-vue
+# THIS PROJECT MADE WITH LOVE BY ME ❤
 
 ## Project setup
 ```
